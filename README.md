@@ -33,7 +33,7 @@ npm run coverage
 ```
 
 
-![Coverage screenshot](./resources/coverage.png)
+![Coverage screenshot](resourcesoverage.png)
 
 CircleCI integration
 ==============
@@ -45,4 +45,4 @@ CircleCI integration
 
 ### Artifacts > Coverage
 
-![Coverage screenshot](./resources/Artifacts.png)
+![Coverage screenshot](resourcesrtifacts.png)

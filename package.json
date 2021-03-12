@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "coverage": "jest test/ --coverage",
-    "lint": "eslint src/",
+    "coverage": "jest test --coverage",
+    "lint": "eslint src",
     "start": "node app.js FSE-ESN",
     "stop": "killall -SIGINT FSE-ESN",
     "test": "jest"
